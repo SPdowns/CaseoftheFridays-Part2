@@ -19,4 +19,6 @@ trying to get an index page for the Journal.
 
 11:55 - Going to practice some ternary and switch statements in the sandbox.
 
-12:25PM - First thing i'm notcing when really trying things out is i'm forgeting semi-colons. PHP isn't a strictly typed language, but it does require semi-colons which I think makes it a weakly typed language. 
+12:25PM - First thing i'm notcing when really trying things out is i'm forgeting semi-colons. PHP isn't a strictly typed language, but it does require semi-colons which I think makes it a weakly typed language.
+
+12:48PM - Notes while practicing PHP, making comments is a bit different then how I think they work, I've notcied so far they have to be in a <?php ?> wrap, other wise it prints to the DOM. I think this may have to do with the way browsers read php and html in one file. The lessons so  far haven't mention this outright. 2nd is using two quotes instead of one, right now I'm able to call a var within a simple echo string easier if the double quote is used.
