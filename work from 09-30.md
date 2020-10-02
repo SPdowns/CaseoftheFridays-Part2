@@ -1,0 +1,9 @@
+6:45PM - Starting the WordPress 5 esstential training. I'm following along with the website version. In this series its explained the app will run the smae way on the server as it does through wordpress.com
+
+7:20 - Three types of content are posts, pages, and media elements. Post is the main content type. Pages are static content. Media Element is stored in database and different types of media elements may have different properties. There are 3 types of views in wordpress,  posts or page index, the posts or page editor and the media library. The post and page index are indexes. So literal lists of all the posts or pages created on the site.
+
+7:50 - In WordPress 5, The Gutenberg block editor is introduced.  posts or page index, the posts or page editor and the media library. The post and page index are indexes. So literal lists of all the posts or pages created on the site. On the front end of the site, these blocks appear as a single, carefully-put-together view. But on the back end, each block has properties which can be customized to achieve the exact result the author wants. In the block editor, we can work in the block context, dealing with individual blocks, or the document context, dealing with the features that relate to all the blocks and how they are presented.
+
+8:30 - After playing around in the Wordpress editor for the last hour has been really easy. This platform is setup in such an intuitive way, its no wonder a ton of the internet was built on this. To me this feels like old hat, theres a graphical editor that has multiple way to access settings and edit them. Creating content is real simple and this should hopefully cover what I need  when it comes to editing.
+
+9:20 - Blocks are the key takeaway of the night. Blocks are esstinally sections.

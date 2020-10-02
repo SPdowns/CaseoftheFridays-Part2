@@ -39,3 +39,7 @@ trying to get an index page for the Journal.
 
 I've been thinking about stretch goals as well and I'm still not confident that I know what I want to do. Because honestkly, I know social aspects of websites are what build and maintain a user base, I just don't think private journaling should maybe have that. So for now, I'll shelve that thought and continue to think about h\this.
 Honestly what I have so far is options for the prompt bar; long writing promops or short ones, generic prompts or esoteric settings. I think that would involve creating a database that would be able to store the prompts rather than hard coding some or even using an api.
+
+4:25pm - With some Functions and Objects watched, again It seems to be so similar to javascript it self, just syntax looks different. I'm going to start reading the MAMP Docs here shortly.
+
+4:50 - After reading some MAMP pages, I'm thinking of how I might not need WordPress. I'm not sure yet, but I don't know yet. The main goal is to login, get a prompt, start writing, then save. There should be a page to view all of the posts and now I'm a little lost in some sauce and am going to take a break.
