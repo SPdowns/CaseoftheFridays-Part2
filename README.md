@@ -11,3 +11,4 @@ trying to get an index page for the Journal.
 
 9:30 Before the arrays, there was a syntax lesson on quotes and double quotes and escape characters. Now onto the arrays.
 
+10:00 They main takeaway so far are the two types of arrays in php. The associative and the indexable, both being a collection of data that acts like a key value pair. This isn't new, just a different way of framing what I know from JavaScript.
