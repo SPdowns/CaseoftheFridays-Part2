@@ -18,3 +18,5 @@ trying to get an index page for the Journal.
 11:30 - The lesson on comparison and logical operators is done. All of the syntax is the same as js. There is a var_dump function which dumps information about one or more variables. The ternary operators and switch statements are very similar as well.
 
 11:55 - Going to practice some ternary and switch statements in the sandbox.
+
+12:25PM - First thing i'm notcing when really trying things out is i'm forgeting semi-colons. PHP isn't a strictly typed language, but it does require semi-colons which I think makes it a weakly typed language. 
