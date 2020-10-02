@@ -13,4 +13,6 @@ trying to get an index page for the Journal.
 
 10:00 - They main takeaway so far are the two types of arrays in php. The associative and the indexable, both being a collection of data that acts like a key value pair. This isn't new, just a different way of framing what I know from JavaScript.
 
-10:25 - Finishing up arrays lessons with some practicing of how to call variables and values, how to add and remove, target and print. There's built in function that allow printing of all elements without building a loop, but loops is a few lessons away. I'm going to refil coffee and food and come back to practice some array manipulation and move into loops.
+10:25 - Finishing up arrays lessons with some practicing of how to call variables and values, how to add and remove, target and print. There's built in function that allow printing of all elements without building a loop, but loops is a few lessons away. I'm going to refil coffee and food and come back to practice some array manipulation and move into comparison operators.
+
+11:30 - The lesson on comparison and logical operators is done. All of the syntax is the same as js. There is a var_dump function which dumps information about one or more variables. The ternary operators and switch statements are very similar as well.
