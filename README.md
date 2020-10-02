@@ -22,3 +22,5 @@ trying to get an index page for the Journal.
 12:25PM - First thing i'm notcing when really trying things out is i'm forgeting semi-colons. PHP isn't a strictly typed language, but it does require semi-colons which I think makes it a weakly typed language.
 
 12:48PM - Notes while practicing PHP, making comments is a bit different then how I think they work, I've notcied so far they have to be in a <?php ?> wrap, other wise it prints to the DOM. I think this may have to do with the way browsers read php and html in one file. The lessons so  far haven't mention this outright. 2nd is using two quotes instead of one, right now I'm able to call a var within a simple echo string easier if the double quote is used.
+
+1:24 - This lesson was about math in PHP. Its the same sytax as javascript. This lesson was very straight forward. Going to take a break and come back to Loops for real this time.
