@@ -9,6 +9,8 @@ trying to get an index page for the Journal.
 
 9:05 - Not sure how to get a browser to open and execute php form just a single php file so I moved to a sandbox, at https://sandbox.onlinephpfunctions.com/ and am now testing with no issue. Working with Variable is simple, just put a bling sign and a descriptive naming convention and call it back later. Consts are a little different. Using the define statement and parens, inside the parens gets two parameters, the first is the name of the const and the second is the value of the const. Also all variable types are familiar. So far On track.
 
-9:30 Before the arrays, there was a syntax lesson on quotes and double quotes and escape characters. Now onto the arrays.
+9:30 - Before the arrays, there was a syntax lesson on quotes and double quotes and escape characters. Now onto the arrays.
 
-10:00 They main takeaway so far are the two types of arrays in php. The associative and the indexable, both being a collection of data that acts like a key value pair. This isn't new, just a different way of framing what I know from JavaScript.
+10:00 - They main takeaway so far are the two types of arrays in php. The associative and the indexable, both being a collection of data that acts like a key value pair. This isn't new, just a different way of framing what I know from JavaScript.
+
+10:25 - Finishing up arrays lessons with some practicing of how to call variables and values, how to add and remove, target and print. There's built in function that allow printing of all elements without building a loop, but loops is a few lessons away. I'm going to refil coffee and food and come back to practice some array manipulation and move into loops.
